@@ -1,0 +1,6 @@
+INSERT INTO `members` (`member_id`, `last_name`, `first_name`, `mail`, `picture`, `password`, `adress`, `phone_number`, `account_number`, `responsablity`, `accepted`, `contributed`) VALUES
+(1, 'Ozturk', 'Sakir', 'o.sakir@hotmail.com', 'views/images/coureur.jpg', '$2y$10$pNHWMrimtGwgsauGpSsk2O2SgvXCBtYnhnlvR.J/n7UfIrLWvjCNu', 'Rue du progrès 248', '0483471997', 'BE11111111111111', 'Président', 1, 0),
+(2, 'Buccilli', 'Vincent', 'b.vincent@hotmail.com', 'views/images/coureur.jpg', '$2y$11$Lbj9A8d7pb1XRPBvlr9fd.LG.JxvXIKaFpyo7V0JxpxIEA7DybsRi', 'Rue de vincent 250', '0484282819', 'BE22222222222222', 'Coach', 1, 0),
+(3, 'Zarcone', 'Nizar', 'z.nizar@hotmail.com', 'views/images/coureur.jpg', '$2y$11$RuUROd2KFqh1b0kqV08PS.v8Z.qdJLteCfzPnZmGGuqvnNdBy.Xce', 'Rue de nizar 250', '0492203918', 'BE33333333333333', 'Member', 1, 0),
+(4, 'Arshad', 'Naim', 'a.naim@hotmail.com', 'views/images/coureur.jpg', '$2y$11$WLtKnpsp7zsecyMvNLfWMOQXj.Pb3qRzjH689vptTFpWcY/l3cAUC', 'Rue de naim 250', '0492381729', 'BE44444444444444', 'Member', 0, 0),
+(5, 'Yildirim', 'Enes', 'y.enes@hotmail.com', 'views/images/coureur.jpg', '$2y$11$v.CsRWcaZQgL1Vd2dwTJVuSimS.Ch7JV.YVYpJCBlDnE6tb.eLYJy', 'Rue de enes 250', '0493283732', 'BE55555555555555', 'Member', 1, 0);
